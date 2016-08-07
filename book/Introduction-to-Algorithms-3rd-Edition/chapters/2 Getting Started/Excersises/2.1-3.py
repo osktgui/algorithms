@@ -1,7 +1,7 @@
 import random
 
-numbers = [];
-length = 100;
+numbers = []
+length = 100
 
 for i in range(length):
     numbers.append(random.randint(1, 100))
