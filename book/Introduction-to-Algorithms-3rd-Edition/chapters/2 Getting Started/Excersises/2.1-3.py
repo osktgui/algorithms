@@ -3,6 +3,10 @@ import random
 numbers = []
 length = 100
 
+
+for i in [40, 100]:
+    print (i)
+
 for i in range(length):
     numbers.append(random.randint(1, 100))
 
